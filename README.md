@@ -1,0 +1,2 @@
+# ChineseTextSimilarity
+Chinese. Text. Similarity
